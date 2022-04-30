@@ -1,0 +1,254 @@
+.menu__logo{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 80px;
+}
+
+.menu__logo:hover{
+    transition: 0.5s;
+    text-shadow: 2px 2px 2px #000;
+    color: #FFDEAD;
+}
+
+.menu__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 46px;
+}
+
+.menu__li:hover{
+    transition: 0.5s;
+    transform: scale(1.5);
+}
+
+
+.menu__ul{
+    list-style-type: none;
+    display: flex;
+    margin-right: 80px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 4px 7px rgba(129, 129, 129, 0.25);
+    width: 1440px;
+    height: 110px;
+    background: #FFFFFF;
+}
+
+.bbb{
+    position: absolute;
+    width: 399px;
+    height: 89px;
+    left: 520px;
+    top: 266px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+
+.container{
+    width: 1442px;
+    height: 812px;
+}
+
+
+.kk{
+    width: 100%;
+    height: 100%;
+}
+.line{
+    position: absolute;
+    width: 80px;
+    height: 10px;
+    left: 687px;
+    top: 397px;
+    background: #817070;
+}
+
+.vv{
+    width: 1442px;
+    height: 812px;
+}
+
+.st1{
+    width: 91px;
+    height: 53px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    margin-left: 674px;
+    margin-right: 675px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.img{
+    width: 600px;
+    height: 400px;
+    margin-left: 80px;
+}
+
+.block-description{
+    width: 597px;
+    height: 180px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin-left: 40px;
+
+}
+
+.block{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.st2{
+    width: 76px;
+    height: 53px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    margin-left: 682px;
+    padding-top: 60px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.blog{
+    background-color:#EFEFEF;
+    width: 1440px;
+    height: 711px;
+}
+
+.block-title{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: left;
+    color: #000000;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 24px;
+    
+}
+.block-descriptions{
+    width: 325px;
+    height: 108px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 24px;
+}
+
+.blockk{
+    flex-direction: row;
+    width: 365px;
+    height: 474px;
+    box-sizing: border-box;
+    padding: 16px;
+    background-color: #FFFFFF;
+    margin-top: 59px;
+}
+.imgg{
+    width: 325px;
+    height: 216px;
+    margin-left: 5px;
+}
+
+.blogg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 122px;
+    margin-right: 123px;
+}
+
+
+.subscribe{
+    width: 1440px;
+    height: 337px;
+    background: #817070;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sb{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.email{
+    width: 300px;
+    height: 55px;
+    background: #817070;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    margin-left: 571px;
+}
+.email::placeholder {
+    color:#FFFFFF;
+    text-align: center;
+}
+.btn{
+    text-transform: uppercase;
+    width: 129px;
+    height: 55px;
+    background : #FFFFFF;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    margin-left: 655px;
+    margin-top: 28px;
+    color: #817070;
+}
+
+.cop{
+    width: 147px;
+    height: 30px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left: 647px;
+}
